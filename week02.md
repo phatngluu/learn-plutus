@@ -1,3 +1,9 @@
+# Steps to prepare environment
+0. Check out plutus repo with commit 81ba78edb1d634a13371397d8c8b19829345ce0d
+1. Open plutus repo Terminal, open: nix-shell
+2. Open: `cabal repl`
+
+
 # Cannot start `cabal repl`
 Error:
 ```
